@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"name": "KM_Zero",
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "xcoord": 530034.86221791874, "ycoord": 180378.69960442273 }, "geometry": { "type": "Point", "coordinates": [ 530034.86221791873686, 180378.699604422727134 ] } }
+]
+}
