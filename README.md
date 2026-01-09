@@ -7,6 +7,8 @@ Kevin Credit
 
 This repository contains lab materials for NCG613: Data Analytics Project at Maynooth University. The practicals contained here cover data analytics and causal inference methods using Python on open data.
 
+![Course Image](/Users/kevincredit/Desktop/Screenshot\ 2026-01-09\ at\ 16.14.22.png)
+
 ## Quick Start
 
 ### 1. Get Your Own Copy of the Repository
